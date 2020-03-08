@@ -1,0 +1,11 @@
+D:\Projects\Pupeteer\PupeteerBasic\PupeteerBasic\bin\Debug\netcoreapp2.2\PupeteerBasic.deps.json
+D:\Projects\Pupeteer\PupeteerBasic\PupeteerBasic\bin\Debug\netcoreapp2.2\PupeteerBasic.runtimeconfig.json
+D:\Projects\Pupeteer\PupeteerBasic\PupeteerBasic\bin\Debug\netcoreapp2.2\PupeteerBasic.runtimeconfig.dev.json
+D:\Projects\Pupeteer\PupeteerBasic\PupeteerBasic\bin\Debug\netcoreapp2.2\PupeteerBasic.dll
+D:\Projects\Pupeteer\PupeteerBasic\PupeteerBasic\obj\Debug\netcoreapp2.2\PupeteerBasic.csprojAssemblyReference.cache
+D:\Projects\Pupeteer\PupeteerBasic\PupeteerBasic\obj\Debug\netcoreapp2.2\PupeteerBasic.csproj.CoreCompileInputs.cache
+D:\Projects\Pupeteer\PupeteerBasic\PupeteerBasic\obj\Debug\netcoreapp2.2\PupeteerBasic.AssemblyInfoInputs.cache
+D:\Projects\Pupeteer\PupeteerBasic\PupeteerBasic\obj\Debug\netcoreapp2.2\PupeteerBasic.AssemblyInfo.cs
+D:\Projects\Pupeteer\PupeteerBasic\PupeteerBasic\bin\Debug\netcoreapp2.2\PupeteerBasic.pdb
+D:\Projects\Pupeteer\PupeteerBasic\PupeteerBasic\obj\Debug\netcoreapp2.2\PupeteerBasic.dll
+D:\Projects\Pupeteer\PupeteerBasic\PupeteerBasic\obj\Debug\netcoreapp2.2\PupeteerBasic.pdb
